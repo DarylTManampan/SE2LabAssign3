@@ -1,5 +1,5 @@
 # SE-2 Lab Assignment 3
-## State Pattern
+## Chain of Responsibility
 
 **Automated Waste Management System**
 
